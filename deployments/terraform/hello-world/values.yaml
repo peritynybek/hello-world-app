@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: docker.peritynybek.com/hello-world-stage:51eda18
+  repository: docker.peritynybek.com/hello-world-stage:f81cb0e
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
